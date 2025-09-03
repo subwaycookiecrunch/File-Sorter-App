@@ -1,0 +1,87 @@
+{
+    "last_directory": "C:/Users/raj97/Downloads",
+    "custom_categories": {
+        "Images": [
+            ".jpg",
+            ".jpeg",
+            ".png",
+            ".gif",
+            ".bmp",
+            ".tiff",
+            ".svg",
+            ".webp",
+            ".ico"
+        ],
+        "Videos": [
+            ".mp4",
+            ".avi",
+            ".mkv",
+            ".mov",
+            ".wmv",
+            ".flv",
+            ".webm",
+            ".m4v",
+            ".3gp"
+        ],
+        "Audio": [
+            ".mp3",
+            ".wav",
+            ".flac",
+            ".aac",
+            ".ogg",
+            ".wma",
+            ".m4a"
+        ],
+        "Documents": [
+            ".txt",
+            ".rtf",
+            ".doc",
+            ".docx",
+            ".odt"
+        ],
+        "PDFs": [
+            ".pdf"
+        ],
+        "Executables": [
+            ".exe",
+            ".msi",
+            ".deb",
+            ".rpm",
+            ".dmg",
+            ".app"
+        ],
+        "Compressed": [
+            ".zip",
+            ".rar",
+            ".7z",
+            ".tar",
+            ".gz",
+            ".bz2",
+            ".xz"
+        ],
+        "Spreadsheets": [
+            ".xls",
+            ".xlsx",
+            ".csv",
+            ".ods"
+        ],
+        "Presentations": [
+            ".ppt",
+            ".pptx",
+            ".odp"
+        ],
+        "Code": [
+            ".py",
+            ".js",
+            ".html",
+            ".css",
+            ".java",
+            ".cpp",
+            ".c",
+            ".php",
+            ".rb",
+            ".go"
+        ],
+        "Others": []
+    }
+}
